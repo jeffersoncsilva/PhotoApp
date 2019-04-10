@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="bt_takePic">Tirar Foto</string>
+    <string name="imb_pic_description">Foto tirada pelo app.</string>
+    <string name="no_whats_installed">WhatsApp não esta instalado. Não será possivel enviar foto para o contato.</string>
+    <string name="permission_garanted">Permissão garantida com sucesso!</string>
+    <string name="permission_denied">Permissão negada! Não será possivel guardar a foto no dispositivo.</string>
+    <string name="bt_shareWhats">Enviar WhatsApp.</string>
+</resources>
